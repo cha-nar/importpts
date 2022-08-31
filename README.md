@@ -4,7 +4,7 @@ import.pts()
 Narimane Chatar 
 23/05/2021
 
-Automatically imports all the pts files containing landmark coordinates exported from landmark editor or Stratovan checkpoint in your working directory storing everything in a 3D array ready for Procrustes superimposition. 
+Automatically imports all the pts files containing landmark coordinates exported from landmark editor or Stratovan checkpoint in your working directory storing everything in a 3D array ready for Procrustes superimposition using gpagen. 
 
  MOST COMMON ERROR MESSAGE 
 
