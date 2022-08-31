@@ -1,6 +1,6 @@
 # importpts
 
-Import.pts() 
+import.pts() 
 Narimane Chatar 
 23/05/2021
 
